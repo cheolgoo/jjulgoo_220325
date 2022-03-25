@@ -22,17 +22,17 @@ buy_num     = np.array([0, 0, 0])
 count       = 0 
 
 
-up0         = 0.38/ 100
-up1         = 1.1/100
-up2         = 0.52/100
-num_limit0  = 1.6 * 60 /5  
-num_limit1  = 1.95* 60 /5 
-num_limit2  = 3* 60 /5 
+up0         = 0.53/ 100 
+up1         = 0.90/100 
+up2         = 0.51/100 
+num_limit0  = 1.7* 60 /5  
+num_limit1  = 1.94* 60 /5 
+num_limit2  =  3* 60 /5 
 
-tic_perc    = 0.061 / 100
+tic_perc    = 0.031 / 100
 
-n_count     = 6
-bigone      = 9.6
+n_count     = 4
+bigone      = 9.41
 tic_init    = -0.4
 
 
